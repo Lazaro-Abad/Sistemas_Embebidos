@@ -3,6 +3,6 @@ SISTEMAS EMBEBIDOS
 Lázaro Abad Dolores
 
 Este repositorio fue creado como evidencia de los trabajos 
-y poryectos realizados a lo largo del curso de sistemas 
+y proyectos realizados a lo largo del curso de sistemas 
 embebidos, aqui se encontraran todas las actividades realizadas 
 tanto de manera individual como en equipo.
