@@ -1,9 +1,10 @@
 # Tarea Número 01
 ## Sensores y Actuadores
 ## Presentación en diapositivas 
-##Abad Dolores Lázaro (Elaboración y búsqueda de información)
-##Rodríguez Hernández Erick Abimael (Complementación y revisión)
 
+##Abad Dolores Lázaro (Elaboración y búsqueda de información)
+
+##Rodríguez Hernández Erick Abimael (Complementación y revisión)
 
 En esta sección se encuentra lo relacionado con Sensores:
 1. Definición
