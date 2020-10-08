@@ -16,7 +16,7 @@ En esta sección se encuentra lo relacionado con Actuadores:
 2. Características
 3. Clasificación según el principio físico de funcionamiento
 4. Tipos de Actuadores
-5.- Usos de actuadores
+5.-Usos de actuadores
 
 En esta sección se encuentra lo relacionado con Protocolos de comunicacion:
 1.- Definicion
