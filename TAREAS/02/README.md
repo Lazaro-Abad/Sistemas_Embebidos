@@ -1,7 +1,9 @@
 # Tarea Número 02
 ## Sistemas Embebidos
 ## Presentación en diapositivas  
+
 ##Abad Dolores Lázaro (Complementación y revisión)
+
 ##Rodriguez Hernández Erick Abimael (Búsqueda de información)
 
 
