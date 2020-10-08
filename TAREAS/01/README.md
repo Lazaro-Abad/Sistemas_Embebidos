@@ -2,7 +2,7 @@
 ## Sensores y Actuadores
 ## Presentación en diapositivas 
 ##Abad Dolores Lázaro (Elaboración y búsqueda de información)
-###Rodríguez Hernández Erick Abimael (Complementación y revisión)
+##Rodríguez Hernández Erick Abimael (Complementación y revisión)
 
 
 En esta sección se encuentra lo relacionado con Sensores:
