@@ -1,5 +1,5 @@
 SISTEMAS EMBEBIDOS
-ERICK ABIMAEL RODRIGUEZ HERNANDEZ 
+Lázaro Abad Dolores
 
 Este repositorio fue creado como evidencia de los trabajos 
 y poryectos realizados a lo largo del curso de sistemas 
