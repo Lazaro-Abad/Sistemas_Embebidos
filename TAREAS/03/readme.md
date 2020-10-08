@@ -7,7 +7,7 @@
 Proyecto 1 
  Este proyecto consiste en un circuito contador desarrollado con
  dos alternativas, con la informacion desplegada en una pantalla LCD 
- y con la informacion desplegada en un display 7 segentos 4 digitos
+ y con la informacion desplegada en un display 7 segmentos 4 digitos
 
 Proyecto 2
  Este proyecto consiste en un circuito basado en un sensor untrasonico
