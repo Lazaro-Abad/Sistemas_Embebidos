@@ -1,5 +1,5 @@
  #Tarea Número 03
-## Proyectos basicos Arduino 
+## Proyectos Basicos Arduino 
 ## Proyectos de Simulacion 
 ## Abad Dolores Lazaro
 ## Erick Abimael Rodriguez Hernandez
