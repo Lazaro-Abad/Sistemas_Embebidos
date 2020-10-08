@@ -7,9 +7,9 @@
 
 
 El circuito contador es escencialmente lo mismo en ambos casos cambiando 
-unicamente la alternativa de despliegue de la informacion obtenida
-1. Contador con LCD
-2. Contador con Display 7 segmentos 4 digitos
+unicamente la alternativa de despliegue de la informacion obtenida.
 
+1. Contador con Display 7 segmentos 4 digitos
+2. Contador con LCD
 
 Esta tarea se entregó el día 06 de octubre del 2020
