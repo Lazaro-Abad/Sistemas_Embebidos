@@ -1,20 +1,23 @@
-# Tarea Número 01
-## Sensores y Actuadores
-## Presentación en diapositivas / mapa mental / 
-### Sergio Francisco Hernández Machuca
+# Tarea Número 05
+## Aplicaciones Orientadas a "Eventos"
+## Presentación de proyectos 01 y 03 
+### Abad Dolores Lázaro
 
-En esta sección se encuentra lo relacionado con Sensores:
-1. Definición
-2. Características
-3. Clasificación según el principio físico de funcionamiento
-4. Clasificación según tipo de señal que entregan
-5. Clasificación por el tipo de bus que usan (IIC, SPI, Serial, Otro)
+En esta sección se encuentra:
+1.- Ejercicio 01
+Este circuito esta diseñado para práctica las interrupciones de tiempo.
+Mediante una librería de interrupciones temporales logramos que el sistema abandone las acciones
+de la rutina principal para ejecutar una rutina alternativa. 
+En este caso en la rutina alternativa imprimimos un mensaje mediante la terminal serial y hacemos
+parpadear un led. 
+El tiempo entre cada interrupción de tiempo es configurable en el codigo.
 
-Continúa con con el tratamiento de los Sensores:
-1. Definición
-2. Características
-3. Clasificación según el principio físico de funcionamiento
-4. Clasificación según tipo de señal que entregan
-5. Clasificación por el tipo de bus que usan (IIC, SPI, Serial, Otro)
+2.-Ejercicio 03
+Se trata de un programa que almacene cadena de caracteres introducidas por el canal serial y las
+almacene posteriormente las vuelve a desplegar en el mismo canal serial. 
+Se implementa una pequeña función que se encarga de comparar dos cadenas de caracteres y realizar 
+el encendido de un led a partir de ésta comparación si se introduce la cadena encendido el led se 
+encenderá y en caso de ser apagado la cadena de caracteres introducida, el led se apagará.
 
-Esta tarea se entregó el día 23 de septiembre del 2020, año del Covid-19.
+
+Esta tarea se entregó el día 13 de octubre del 2020, año del Covid-19.
