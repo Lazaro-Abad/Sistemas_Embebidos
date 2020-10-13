@@ -2,6 +2,7 @@
 ## Aplicaciones Orientadas a "Eventos"
 ## Presentación de proyectos 01 y 03 
 ### Abad Dolores Lázaro
+### Rodriguez Hernandez Erick Abimael
 
 En esta sección se encuentra:
 
