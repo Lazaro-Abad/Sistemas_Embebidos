@@ -11,12 +11,18 @@ Los sistemas en tiempo real se caracterizan por el hecho de que pueden producirs
 En forma de descripción general cada tarea realiza lo siguiente:
 
 Tarea 01: Se ejecuta 10 veces mandando un mensaje que evidencia que se esta ejecutando, cuando se realiza la séptima iteración manda información a la tarea 2, realizado con una estructura de switch (){}. Cuando concluye la tarea manda un mensaje advirtiendo que la tarea 1 ha terminado.
+
 Tarea 02: Se ejecuta 10 veces mandando un mensaje que evidencia que se está ejecutando. Cuando concluye la tarea manda un mensaje advirtiendo que la tarea 2 ha terminado.
+
 Tarea 03: Se ejecuta 7 veces mandando un mensaje que evidencia que se está ejecutando, cuando se realiza la quinta iteración manda información a la tarea 4, realizado con una estructura de for (){}. Cuando concluye la tarea manda un mensaje advirtiendo que la tarea 3 ha terminado. Cambia el valor de la variable global “c”.
+
 Tarea 04: Se ejecuta 6 veces mandando un mensaje que evidencia que se está ejecutando, cuando la variable global “c” es igual 1 la tarea 04 recibe información de la tarea 08, realizado con una estructura de for (){}. Cuando concluye la tarea manda un mensaje advirtiendo que la tarea 04 ha terminado.
 Tarea 05: Se ejecuta 5 veces mandando un mensaje que evidencia que se está ejecutando, realizado con una estructura de for (){}. Cuando concluye la tarea manda un mensaje advirtiendo que la tarea 05 ha terminado.
+
 Tarea 06:  Se ejecuta de manera infinita mandando un mensaje que evidencia que se está ejecutando, realizado con una estructura de While (){}. Cuando concluye la tarea manda un mensaje advirtiendo que la tarea 06 ha terminado.
+
 Tarea 07: Se ejecuta  de manera infinita mandando un mensaje que evidencia que se está ejecutando, realizado con una estructura de While (){}. Cuando concluye la tarea manda un mensaje advirtiendo que la tarea 07 ha terminado.
+
 Tarea 08: Se ejecuta 2 veces mandando un mensaje que evidencia que se está ejecutando. Cuando concluye la tarea manda un mensaje advirtiendo que la tarea 2 ha terminado.
 
 
