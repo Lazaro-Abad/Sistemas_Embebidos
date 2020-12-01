@@ -5,6 +5,7 @@ Uso de la plataforma IO Adafruit.
 ### Sergio Francisco Hernández Machuca
 
 ## Abad Dolores Lázaro
+## Rodriguez Hernandez Erick Abimael 
 
 La comunicación entre maquinas cada vez es más utilizada y requerida por los sistemas electrónicos
 en general, por lo que en este apartado nos introduciremos en una plataforma que permite comunicar
