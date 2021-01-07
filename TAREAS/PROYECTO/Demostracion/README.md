@@ -3,7 +3,7 @@
 ### Abad Dolores Lázaro  
 ### Rodríguez Hernández Erick 
 Profesor:
-### Hernandez Machuca SErgio Francisco 
+### Hernandez Machuca Sergio Francisco 
 
 
 La demostracion del funcionamiento de proyecto se sucito en una exposicion en ZOOM, posteriormente se realiZo un video editado en el que se expinia con mayor claridad  todo el sistema
